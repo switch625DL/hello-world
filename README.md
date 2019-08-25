@@ -1,2 +1,2 @@
 # hello-world
-Ideas and stuff
+Nothing to see here
